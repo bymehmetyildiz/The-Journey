@@ -71,3 +71,21 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Unity tarafından oluşturulan geçici dosyalar
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+MemoryCaptures/
+Assets/StreamingAssets/aa.meta
+
+# Platforma özgü dosyalar
+*.csproj
+*.sln
+*.userprefs
+
+# Burst Compiler dosyaları
+.RunTime/
